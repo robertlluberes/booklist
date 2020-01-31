@@ -51,3 +51,4 @@ Legend:
 - [ ] Las 21 leyes irrefutables del liderazgo [📑](https://www.amazon.com/dp/1602550271)
 - [ ] Maestría en liderazgo [📑](https://www.amazon.com/dp/6073154364)
 - [ ] Piense y Hágase Rico [📑](https://www.amazon.com/dp/1535598093)
+- [ ] How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life [📑](https://www.amazon.com/dp/1591846919)
