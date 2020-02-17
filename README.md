@@ -40,6 +40,7 @@ Legend:
 - [x] Enriquezca su Personalidad [📑](https://www.amazon.com/Enriquezca-Personalidad-Spanish-Florence-Littauer/dp/1560633174)
 - [x] El camino fácil y rápido para hablar eficazmente [📑](https://www.goodreads.com/book/show/41880052-el-camino-f-cil-y-r-pido-para-hablar-eficazmente)
 - [x] El Negocio del Siglo 21 [📑](https://www.amazon.com/dp/1945540834)
+- [x] El cuadrante del flujo de dinero [📑](https://www.amazon.com/dp/9879702476)
 - [ ] Potenciación Neuronal: La ciencia de aprender idiomas [📑](https://www.amazon.com/Rickelvis-Valerio/dp/9945803778/)
 - [ ] Los siete hábitos de la gente altamente efectiva [📑](https://www.goodreads.com/book/show/2438466.Los_Siete_Habitos_de_La_Gente_Altamente_Efectiva)
 - [ ] Manual de Urbanidad y Buenas Maneras [📑](https://www.goodreads.com/book/show/1971985.Manual_de_urbanidad_y_buenas_maneras)
